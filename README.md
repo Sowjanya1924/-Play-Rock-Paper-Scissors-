@@ -4,6 +4,7 @@ In this we create a three page web application to play rock, paper, scissors
 #Resources
 
 The following modules are used to create this web page in PHP:
+
 ->Arrays
 
 ->Functions
